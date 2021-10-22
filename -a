@@ -1,0 +1,101 @@
+[33mcommit c210ee756d9d529247976c5b8821f35c90a1796c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Wed Oct 20 17:12:12 2021 +0200
+
+    Added solutions as of EOD 20th of oct
+
+[33mcommit af4809c67d2196a2b504b65b6a848de5595e28f1[m[33m ([m[1;31morigin/feature/20-oct[m[33m)[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Tue Oct 19 21:41:08 2021 +0200
+
+    Finished exercises for 20th of oct
+
+[33mcommit a0eccd08e388a18193cc0ae56cb838e3a39806dc[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Tue Oct 19 18:44:57 2021 +0200
+
+    Finished examples for 20th of oct
+
+[33mcommit 528be4856014605250a6448b4087995020825960[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Sun Oct 17 18:44:00 2021 +0200
+
+    Started exercises for 20th of oct
+
+[33mcommit 87ff487bec4e8927bc653a85eab05e93c8a774fb[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Sun Oct 17 16:17:42 2021 +0200
+
+    Started work on 20th of oct
+
+[33mcommit f4e5cb5c71a7a154101ee03d3c02cd9a19b9e918[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Mon Oct 18 16:18:56 2021 +0200
+
+    Added solutions to exercises as of 18th of oct
+
+[33mcommit 98d9ea0e05e240944ffa8bb25c4e6a2c0cf560e0[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Sat Oct 16 17:16:34 2021 +0200
+
+    Finished creating week-2 exercises
+
+[33mcommit 79b3bf7ca707d35a5b0b422478a1f44b160b5bb0[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Sat Oct 16 16:46:33 2021 +0200
+
+    Started creating week-2 exercises
+
+[33mcommit 3bef2e6fea5f8de25fac330f731f6510ca1b11bd[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Fri Oct 15 16:04:06 2021 +0200
+
+    Solved the rest of the exercises for the 13th of october
+
+[33mcommit 7e0e150e425bff220cf78e53e629f0d53931fd4a[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Thu Oct 14 18:06:10 2021 +0200
+
+    Added vscode tips
+
+[33mcommit 50389fec975f4bf521c7ed806d178b354e6445ec[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Thu Oct 14 13:55:19 2021 +0200
+
+    Preserved exercises unsolved
+
+[33mcommit dd10115d91fdb4ce44c674c45e8a41bc0b5bda35[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Thu Oct 14 13:51:22 2021 +0200
+
+    Fixed issue where br was accidentally inserted for opening tag of <html>
+
+[33mcommit bdb5dab43fb9a7e702604d1c7412b30cc095eca9[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Thu Oct 14 13:46:37 2021 +0200
+
+    Added week-1 stuff
+
+[33mcommit a8d47c5057e6bf73527862fe916c14fdf818c902[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Thu Oct 14 13:40:37 2021 +0200
+
+    Added README
+
+[33mcommit e3f703762efdb0863bf84603e188bcd71df1c146[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Wed Oct 13 16:17:25 2021 +0200
+
+    Added exercises solved as of EOD 13th of oct
+
+[33mcommit fad7080bfe08692c6e26f769f096b30f16bab42f[m
+Author: Dannie Håkansson <dannie.hakansson@cmeducations.se>
+Date:   Wed Oct 13 00:19:36 2021 +0200
+
+    Added HTML exercises
+
+[33mcommit e2adb05b59090cb992ae2e5bc003e53b87971aba[m
+Author: Dannie Håkansson <danniehakan@gmail.com>
+Date:   Tue Oct 12 21:07:01 2021 +0200
+
+    Added codealong from 11th of oct
